@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">🕸️ 웹 개발자 로드맵</h2>
+  <h1 align="center">🕸️ 웹 개발자 로드맵</h2>
   <p align="center">
     2019년 웹 개발자가 되기 위한 로드맵
   </p>
@@ -7,9 +7,10 @@
    <a href="https://roadmap.sh">RoadMap Site 🔗</a>
   </p>
 </p>
-## 소개 
-[Fork 👉🏻 kamranahmedse](https://github.com/kamranahmedse/developer-roadmap)
 
+## 소개 
+
+[Fork 👉🏻 kamranahmedse](https://github.com/kamranahmedse/developer-roadmap)
 ![Web Developer Roadmap Introduction](./images/intro.png)
 
 ## 프론트엔드 로드맵
